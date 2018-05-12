@@ -1,0 +1,29 @@
+_repo: The-Negrito-and-Allied-Types-in-the-Philippines-and-The-Ilongot-or-Ibilao-of-Luzon_28577
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrows, David P.
+    alias: Barrows, David Prescott
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '33413'
+    url: http://www.gutenberg.org/2009/agents/33413
+description: ''
+gutenberg_issued: '2009-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Negritos'
+- !lcsh 'Ethnology -- Philippines'
+title: The Negrito and Allied Types in the Philippines and The Ilongot or Ibilao of
+  Luzon
+url: http://www.gutenberg.org/ebooks/28577
